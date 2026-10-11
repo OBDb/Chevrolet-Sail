@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chevrolet_Sail"
+
+generations:
+  - name: "Second Generation"
+    start_year: 2010
+    end_year: 2015
+    description: "A subcompact built by SAIC-GM with 1.2 L and 1.4 L engines."
+  - name: "Third Generation"
+    start_year: 2015
+    end_year: null
+    description: "With a 1.5 L engine."
